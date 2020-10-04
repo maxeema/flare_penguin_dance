@@ -2,6 +2,8 @@
 
 Flare sample project for Flutter with Penguin Dance
 
+https://maxeema.github.io/flare_penguin_dance/
+
 ![](screens/flare-penguin.gif)
 
 ## Getting Started
